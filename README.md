@@ -3,7 +3,7 @@
 in this project we will practice basic typeScript.
 
 ## Some Problem i have facing Install TypeScript globally.
-- it problem only show in `ununtu`
+- it problem only show in `ubuntu`
 - in windows we can install globally `npm install -g typescript`
 - but in ubuntu he have to use `sudo npm install -g typescript` and use password.
 
@@ -18,3 +18,5 @@ in this project we will practice basic typeScript.
 - Learnig compile typescript.
 - Practicing compile typescript file.
 - Learning TypeScript built in data type.
+- Practice basic type of typeScript.
+- 
