@@ -36,4 +36,4 @@ in this project we will practice basic typeScript.
 - Practice object array type.
 - Practice optional object value type.
 - Learning TypeScript create custom data type.
-- 
+- Practice custom data type.
