@@ -30,4 +30,6 @@ in this project we will practice basic typeScript.
 - Practicing Enumatarion numeric enam data type.
 - Practicing string enum data type.
 - Practicing hatergen enum data type.
-- 
+- Learn and practice any data type in typescript.
+- Learning Typescript Object Data Type.
+- Practicing 
