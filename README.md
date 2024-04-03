@@ -2,10 +2,17 @@
 
 in this project we will practice basic typeScript.
 
+## Some Problem i have facing Install TypeScript globally.
+- it problem only show in `ununtu`
+- in windows we can install globally `npm install -g typescript`
+- but in ubuntu he have to use `sudo npm install -g typescript` and use password.
+
+## Some command for terminal
+- `tsc index.ts` for compile javascript.
+- `tsc index.ts --watch` for auto compile to javascript, when we change value form ".ts" file. 
+
+
 ### Done task for today
 
-- practice react CRUD app using redux toolkit.
-- i was having some error in the add page. and fix it.
-- Learn Introduction to typescript.
-- Environment setup for typescript.
-- Basic Typescript program learning.
+- Learning TypeScript built in data type.
+- 
