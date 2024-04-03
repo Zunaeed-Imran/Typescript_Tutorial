@@ -11,7 +11,8 @@ in this project we will practice basic typeScript.
 - `tsc index.ts` for compile javascript.
 - `tsc index.ts --watch` for auto compile to javascript, when we change value form ".ts" file. 
 -  `node index.js` for view the ".js" file in terminal.
-- 
+- `ctro+c` we can restart the terminal by using this command.
+
 
 ### Done task for today
 
@@ -19,4 +20,5 @@ in this project we will practice basic typeScript.
 - Practicing compile typescript file.
 - Learning TypeScript built in data type.
 - Practice basic type of typeScript.
-- 
+- Learning Typescript Union Data Type.
+- Practice Union Data Type.
