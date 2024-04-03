@@ -32,4 +32,8 @@ in this project we will practice basic typeScript.
 - Practicing hatergen enum data type.
 - Learn and practice any data type in typescript.
 - Learning Typescript Object Data Type.
-- Practicing 
+- Practicing object type.
+- Practice object array type.
+- Practice optional object value type.
+- Learning TypeScript create custom data type.
+- 
