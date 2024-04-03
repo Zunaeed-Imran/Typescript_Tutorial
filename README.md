@@ -21,5 +21,8 @@ in this project we will practice basic typeScript.
 - Learning TypeScript built in data type.
 - Practice basic type of typeScript.
 - Learning Typescript Union Data Type.
-- Practice User Define Data Type.
-- Learning 
+- Practice Union Define Data Type.
+- Learning Typescript Array Data Type.
+- Practicing Array single Data Type and multiple data type.
+- Learning Typescript Tuple Data Type.
+- 
