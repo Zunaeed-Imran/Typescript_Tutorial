@@ -21,4 +21,5 @@ in this project we will practice basic typeScript.
 - Learning TypeScript built in data type.
 - Practice basic type of typeScript.
 - Learning Typescript Union Data Type.
-- Practice Union Data Type.
+- Practice User Define Data Type.
+- Learning 
