@@ -25,4 +25,5 @@ in this project we will practice basic typeScript.
 - Learning Typescript Array Data Type.
 - Practicing Array single Data Type and multiple data type.
 - Learning Typescript Tuple Data Type.
+- Practice Tuple array type in typescript.
 - 
