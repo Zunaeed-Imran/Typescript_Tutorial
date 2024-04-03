@@ -26,4 +26,8 @@ in this project we will practice basic typeScript.
 - Practicing Array single Data Type and multiple data type.
 - Learning Typescript Tuple Data Type.
 - Practice Tuple array type in typescript.
+- Learning typescript Enum Data Type.
+- Practicing Enumatarion numeric enam data type.
+- Practicing string enum data type.
+- Practicing hatergen enum data type.
 - 
