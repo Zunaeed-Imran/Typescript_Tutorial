@@ -46,4 +46,7 @@ in this project we will practice basic typeScript.
 - Learning TypeScript abstraction.
 - Practicing abstraction.
 - Learning Typescript Encapsulation & access modifiers.
+- Learning Typescript module export & import.
+- Practice export import in typescript.
+- Learning Typescript tsconfig and file structure.
 - 
