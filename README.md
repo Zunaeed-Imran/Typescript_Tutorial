@@ -50,4 +50,7 @@ in this project we will practice basic typeScript.
 - Practice export import in typescript.
 - Learning Typescript tsconfig and file structure.
 - Practice typescript file Structure.
-- 
+- Learning TypeScript dom manipulation.
+- Practicing dom manipulation in typescript.
+- Learning TypeScript function signature.
+- Practicing Typescript function signature.
