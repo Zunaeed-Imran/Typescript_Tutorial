@@ -37,3 +37,8 @@ in this project we will practice basic typeScript.
 - Practice optional object value type.
 - Learning TypeScript create custom data type.
 - Practice custom data type.
+
+### Done task for today
+- Learning TypeScript class and object.
+- Practicing class and object.
+- 
