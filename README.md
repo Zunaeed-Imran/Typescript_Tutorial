@@ -43,4 +43,6 @@ in this project we will practice basic typeScript.
 - Practicing class and object.
 - Learning TypeScript Inheritance.
 - Practicing Inheritance.
+- Learning TypeScript abstraction.
+- Practicing abstraction.
 - 
