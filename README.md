@@ -49,4 +49,5 @@ in this project we will practice basic typeScript.
 - Learning Typescript module export & import.
 - Practice export import in typescript.
 - Learning Typescript tsconfig and file structure.
+- Practice typescript file Structure.
 - 
