@@ -41,4 +41,6 @@ in this project we will practice basic typeScript.
 ### Done task for today
 - Learning TypeScript class and object.
 - Practicing class and object.
+- Learning TypeScript Inheritance.
+- Practicing Inheritance.
 - 
