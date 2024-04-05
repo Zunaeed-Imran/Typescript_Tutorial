@@ -58,4 +58,5 @@ in this project we will practice basic typeScript.
 - Practicing Typescript function signature.
 - Learn Typescript class implementing interface.
 - Learning Typescript Narrowing Types.
-- 
+- Learning TypeScript Generics basics.
+- practice Generics basics
