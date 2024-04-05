@@ -52,5 +52,8 @@ in this project we will practice basic typeScript.
 - Practice typescript file Structure.
 - Learning TypeScript dom manipulation.
 - Practicing dom manipulation in typescript.
+
+#### Done task for today.
 - Learning TypeScript function signature.
 - Practicing Typescript function signature.
+- 
