@@ -1,3 +1,5 @@
+// in this example we will learn truthness
+
 function printTdoods(todos: string[] | null) {
   if (todos) {
     todos.map(todo => console.log(todo));
