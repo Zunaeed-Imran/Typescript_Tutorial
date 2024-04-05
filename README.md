@@ -56,4 +56,6 @@ in this project we will practice basic typeScript.
 #### Done task for today.
 - Learning TypeScript function signature.
 - Practicing Typescript function signature.
+- Learn Typescript class implementing interface.
+- Learning Typescript Narrowing Types.
 - 

@@ -1,3 +1,5 @@
+// without interface example code.
+
 let users: {
   id: number;
   name: string;
