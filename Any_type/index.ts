@@ -5,7 +5,7 @@
 
 
 
-let userName;
+let userName: any;
 
 userName = "imran";
 userName = 520;
